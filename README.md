@@ -13,10 +13,3 @@ cleaningFunctions.py: This file was used to clean some of the original data file
 
 # Hardware
 All queries were ran on an Apple M2 Mac mini with 8 GB of ram.
-
-# Query Sources
-TPC-H:
-
-Job:
-
-Stack:
